@@ -1,3 +1,5 @@
+![Screenshot (75)](https://github.com/Olailemi/Churn-Prediction-Machine-Learning-/assets/151401829/a07d8444-4b67-41e2-bbb8-0bd95f862689)
+
 # Project Workflow Overview
 ## Importing Libraries
 - Data Analysis Libraries: Utilize libraries such as Pandas and NumPy for efficient data manipulation and analysis.
